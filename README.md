@@ -1,11 +1,17 @@
 ## Directory Structure
 
 project/
+
 ├── workload_dataset.csv        # Dataset of workloads
+
 ├── train_model.py              # Script to train and save the ML model
+
 ├── predict.py                  # Script to load the model and predict
+
 ├── orchestrator_model.pkl      # Trained model (output of train_model.py)
+
 ├── requirements.txt            # Dependencies
+
 └── README.md                   # Project description
 
 
