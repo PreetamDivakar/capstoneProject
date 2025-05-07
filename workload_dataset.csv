@@ -1,0 +1,7 @@
+cpu_cores,memory_mb,latency_sensitive,execution_time_sec,data_size_mb,target_platform
+1,512,1,5,10,serverless
+2,2048,0,300,500,traditional
+4,4096,0,600,1500,traditional
+1,128,1,2,5,serverless
+1,256,1,1,1,serverless
+3,1024,0,200,50,traditional
