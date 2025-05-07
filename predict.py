@@ -14,7 +14,7 @@ example = {
 }
 
 # Print input features
-print("📦 Workload Features:")
+print("Workload Features:")
 for key, value in example.items():
     print(f"  - {key}: {value}")
 
