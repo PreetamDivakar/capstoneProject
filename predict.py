@@ -24,4 +24,4 @@ features = pd.DataFrame([example])
 prediction = model.predict(features)[0]
 
 # Print result
-print(f"\n🚀 Deploy to: {prediction}")
+print(f"\nDeploy to: {prediction}")
